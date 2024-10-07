@@ -7,12 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['393513954934', 'маттia ت💋', true],
 ] //Numero degli owner
 
 //────────────────────────────
@@ -59,8 +54,8 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
-global.author = '𝐌𝐝'
+global.packname = '𝓡𝓾𝓫𝔂𝓑𝓸𝓽𝓢𝓽𝓲𝓬𝓴𝓮𝓻𝓼'
+global.author = '🅁🅄🄱🅈 🄱🄾🅃'
 
 //────────────────────────────
 
@@ -69,7 +64,7 @@ global.vs = '𝟐.𝟐'
 global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
 
 global.multiplier = 69 
-global.maxwarn = '4' 
+global.maxwarn = '3' 
 //────────────────────────────
 
 global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
